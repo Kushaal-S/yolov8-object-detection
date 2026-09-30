@@ -1,0 +1,23 @@
+# Model weights (auto-downloaded on first run, can be 100+ MB)
+*.pt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Ultralytics output
+runs/
+
+# IDEs / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
